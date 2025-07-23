@@ -54,6 +54,7 @@ This project aims to develop a neural network-based regression model to **predic
 
 * **Language:** Python 3.9
 * **Libraries:** TensorFlow/Keras, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+* To replicate the evaluation, be aware the running time is above 20 minutes per model
 
 ## 👤 Author
 
